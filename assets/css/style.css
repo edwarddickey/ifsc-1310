@@ -1,0 +1,22 @@
+/*  ---------------Box Sizing-----------------  */
+
+html {
+    box-sizing: border-box;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+
+body{
+    background-color: lightblue;
+
+    font-family: "Roboto", sans-serif;
+}
+
+main{
+    background-color: lightblue;
+    text-align: center;
+    text-shadow:2px 1px 5px #000000;
+}
