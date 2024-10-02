@@ -56,7 +56,9 @@ nav.primary ul{
 nav.primary ul li{
     list-style-type:none;
 }
-/* nav.primary ul li a{
-
-} */
+nav.primary ul li a{
+    color: #ffffff;
+    text-decoration:none;
+    border: 1px solid #fff;
+}
 
