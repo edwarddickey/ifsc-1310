@@ -32,6 +32,7 @@ main{
 header.primary{
     text-align: center;
     background-color: #3b638b;
+    padding:40px;
 }
 header.primary h1{
     font-size: 3.5rem;
