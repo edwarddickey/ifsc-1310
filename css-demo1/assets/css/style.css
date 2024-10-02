@@ -25,10 +25,13 @@ body{
 
 main{
     background-color: lightblue;
-    text-align: center;
+    
     text-shadow:2px 1px 5px #000000;
 }
 
+header.primary{
+    text-align: center;
+}
 header.primary h1{
     font-size: 3.5rem;
     margin: 20px 0;
