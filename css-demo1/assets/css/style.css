@@ -9,6 +9,13 @@ html {
     box-sizing: inherit;
   }
 
+head{
+    text-align: center;
+}
+title{
+    text-align: center;
+}
+
 body{
     background-color: lightblue;
 
@@ -19,5 +26,14 @@ main{
     background-color: lightblue;
     text-align: center;
     text-shadow:2px 1px 5px #000000;
+}
+
+header.primary h1{
+    font-size: 3.5rem;
+    margin: 20px 0;
+}
+
+header.primary h1 a{
+    color: #ffffff; 
 }
 
