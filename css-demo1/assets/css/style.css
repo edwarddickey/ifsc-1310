@@ -92,6 +92,10 @@ html {
      background-color: rgba(0,0,0, .8);
   }
 
+  #content{
+    line-height: 1.2;
+  }
+
   #content h2 {
     color: #3b638b;
     text-decoration: underline;
