@@ -101,6 +101,23 @@ html {
     text-decoration: underline;
     border-bottom: 1px dotted darkgrey;
   }
+
+#blog{
+    display:flex;
+    justify-content:space-around;
+    flex-direction: row;
+}
+
+
+
+
+
+
+
+
+
+
+
   
   
   
