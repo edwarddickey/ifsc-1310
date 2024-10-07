@@ -15,7 +15,10 @@ html {
   *:after {
     box-sizing: inherit;
   }
-
+/* reponsive images*/
+img{
+    max-width: inherit;
+}
   .container{
     width: 80vw;
     margin: 40px auto;
