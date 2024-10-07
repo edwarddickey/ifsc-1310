@@ -109,9 +109,12 @@ img{
     display:flex;
     justify-content:space-around;
     flex-direction: row;
+    gap: 2rem;
 }
 
-
+#blog article.post {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.6);
+}
 
 
 
